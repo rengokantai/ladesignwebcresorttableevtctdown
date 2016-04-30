@@ -41,3 +41,25 @@ padding:0;
 text-align:center;
 letter-spacing: 9px;
 }
+
+#world .mycountdown .countdown-row{
+display:block;
+text-align:center;
+}
+#world .mycountdown .countdown-section{
+display:inline-block;
+width:90px;
+}
+#world .mycountdown .countdown-amount{
+color:#ffffff;
+font-size:5.3em;
+line-height:50px;
+}
+
+#world .mycountdown .countdown-period{
+display:block;
+color: #6fb5f8;
+font-size:1.4em;
+text-transform: uppercase;
+letter-spacing:2px;
+}
